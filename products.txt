@@ -1,0 +1,151 @@
+50
+0001
+Wireless Mouse
+150.99
+0002
+Mechanical Keyboard
+790.99
+0003
+Gaming Headset
+490.99
+0004
+USB-C Charger
+124.99
+0005
+External Hard Drive
+189.99
+0006
+Bluetooth Speaker
+139.99
+0007
+Smartwatch
+1229.99
+0008
+Portable Power Bank
+343.99
+0009
+Wireless Earbuds
+592.99
+0010
+Graphics Tablet
+1992.99
+0011
+LED Desk Lamp
+212.99
+0012
+Laptop Stand
+292.99
+0013
+Ergonomic Chair
+149.99
+0014
+1080p Webcam
+492.99
+0015
+Noise-Canceling Headphones
+1919.99
+0016
+Mini Projector
+299.99
+0017
+Smart LED Strip Lights
+319.99
+0018
+Portable SSD
+2129.99
+0019
+Mechanical Gaming Chair
+1790.99
+0020
+Air Purifier
+892.99
+0021
+VR Headset
+249.99
+0022
+Smart Thermostat
+129.99
+0023
+Wireless Charging Pad
+392.99
+0024
+Action Camera
+1992.99
+0025
+Gaming Monitor
+2992.99
+0026
+Adjustable Standing Desk
+2429.99
+0027
+Digital Drawing Pad
+1719.99
+0028
+Security Camera
+1193.99
+0029
+Streaming Microphone
+793.99
+0030
+Smart Door Lock
+1539.99
+0031
+Home Theater Projector
+3439.99
+0032
+Multi-Port USB Hub
+243.99
+0033
+Cordless Vacuum Cleaner
+1993.99
+0034
+Adjustable Laptop Cooling Pad
+273.99
+0035
+Solar Power Bank
+443.99
+0036
+Noise Reduction Earplugs
+143.99
+0037
+Digital Alarm Clock
+293.99
+0038
+Electric Toothbrush
+694.99
+0039
+Wireless Gaming Controller
+590.99
+0040
+Car Dash Camera
+990.99
+0041
+Digital Kitchen Scale
+519.99
+0042
+Smart Coffee Maker
+389.99
+0043
+Robot Vacuum Cleaner
+2349.99
+0044
+LED Light Therapy Mask
+993.99
+0045
+Wireless Security Alarm System
+1593.99
+0046
+Compact Air Conditioner
+2993.99
+0047
+Smart Water Bottle
+364.99
+0048
+Motion Sensor Night Light
+172.99
+0049
+Auto Soap Dispenser
+242.99
+0050
+Heated Blanket
+180.99
